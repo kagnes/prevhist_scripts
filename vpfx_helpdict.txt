@@ -1,0 +1,107 @@
+* orig_lemma	standard_lemma	variations
+abba	abba	abba
+agyon	agyon	agyon
+alá	alá	alá
+alább	alább	alább
+alá-+fel	alá-fel	alá-fel
+alája_alá	alája_alá	alája
+által	által	által
+be	be	be
+bel	be	
+#bel_be	bel_be	bel
+bel_be	bel_be	
+bele	bele	bele
+belé	bele	belé
+egybe	egybe	egybe
+el	el	el
+el-+be	el-be	el-be
+el-be	el-be	
+elé	elé	elé
+elé_elő	elé_elő	
+el-+ki	el-ki	el-ki
+el-ki	el-ki	
+ellen	ellen	ellen
+ellent	ellent	ellent
+elő	elő	elő
+elöl	elöl	elöl
+#elöl-utol	elöl-utol	elöl-utol
+előre	előre	előre
+előre-+hátra	előre-hátra	előre-hátra
+észre	észre	észre
+fel	fel	fel
+félbe	félbe	félbe
+#félre	félre	
+félre	félre	félre
+fenn	fenn	fenn
+föl	fel	föl
+hátra	hátra	hátra
+haza	haza	haza
+helyre	helyre	helyre
+hozzá	hozzá	hozzá
+hozzája_hozzá	hozzája_hozzá	hozzája
+ide	ide	ide
+ide-+tova	ide-tova	ide-tova
+keresztül	keresztül	keresztül
+ketté	ketté	ketté
+ki	ki	ki
+kölcsön	kölcsön	kölcsön
+körül	körül	körül
+közbe	közbe	közbe
+le	le	le
+#meg	meg	
+meg	meg	meg
+neki	neki	neki
+nyilván	nyilván	nyilván
+oda	oda	oda
+össze	össze	össze
+ott	ott	ott
+rá	rá	rá
+rája	rája	rája
+rája_rá	rája_rá	
+rajta	rajta	rajta
+széjjel	széjjel	széjjel
+széjjel-+fel	széjjel-fel	széjjel-fel
+szembe	szembe	szembe
+szerte	szerte	szerte
+szét	szét	szét
+teli	teli	teli
+tova	tova	tova
+tovább	tovább	tovább
+utána	utána	utána
+#végbe	végbe	
+végbe	végbe	végbe
+végbe_végbe	végbe	
+véghez	véghez	véghez
+végig	végig	végig
+végre	végre	végre
+vissza	vissza	vissza
+viszont	viszont	viszont
+alá-meg	alá-meg	alá-meg
+el-el	el-el	el-el
+el-fel	el-fel	el-fel
+el-ki	el-ki	el-ki
+fel-fel	fel-fel	fel-fel
+ki-ki	ki-ki	ki-ki
+meg-haza	meg-haza	meg-haza
+meg-ki	meg-ki	meg-ki
+meg-le	meg-le	meg-le
+szét-ki	szét-ki	szét-ki
+jól	jól	jól
+helyben	helyben	helyben
+jóvá	jóvá	jóvá
+egyet	egyet	egyet
+közre	közre	közre
+helyt	helyt	helyt
+túl	túl	túl
+tele	tele	tele
+újra	újra	újra
+mellé	mellé	mellé
+utol	utol	utol
+át	át	át
+közbe'n	közbe	közben
+külön	külön	külön
+keresztel	keresztül	keresztel
+reá	rá	reá
+kétségbe	kétségbe	kétségbe
+benn	benn	benn
+rendbe	rendbe	rendbe
